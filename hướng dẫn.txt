@@ -1,0 +1,10 @@
+B1: cài đặt php composer và framwork laralvel
+B2: cài đặt xampp và tạo csdl ktx và import file sql
+B3: chạy lệnh composer install để cài đặt các packet
+B4: run app laralvel bằng lệnh php artisan serve
+
+### Tài khoản test
+```
+Sinh viên: sv1@gmail.com - 123456
+Cán bộ: cb1@gmail.com - 123456
+Admin: admin@gmail.com - 123456
